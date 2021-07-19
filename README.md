@@ -5,12 +5,12 @@
 <hr>
 ### Coding 
 
-<img src="https://www.pngrepo.com/png/303205/180/html-5-logo.png" alt="Tecnology" width="50" height="50">
-<img src="https://www.picuino.com/_images/css3-logo.png" alt="Tecnology" width="50" height="50">
-<img src="https://img1.freepng.es/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg" alt="Tecnology" width="50" height="50">
-<img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" alt="Tecnology" width="50" height="50">
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Tecnology" width="50" height="50">
-<img src="https://www.pngrepo.com/png/303392/180/jquery-1-logo.png" alt="Tecnology" width="50" height="50">
+<img src="https://www.pngrepo.com/png/303205/180/html-5-logo.png" alt="Tecnology" width="50" height="50" style="display: inline;">
+<img src="https://www.picuino.com/_images/css3-logo.png" alt="Tecnology" width="50" height="50" style="display: inline;">
+<img src="https://img1.freepng.es/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg" alt="Tecnology" width="50" height="50"style="display: inline;">
+<img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text-thumbnail.png" alt="Tecnology" width="50" height="50" style="display: inline;">
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Tecnology" width="50" height="50" style="display: inline;">
+<img src="https://www.pngrepo.com/png/303392/180/jquery-1-logo.png" alt="Tecnology" width="50" height="50" style="display: inline;">
 
 <hr>
 
